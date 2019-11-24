@@ -1,5 +1,5 @@
 # IIS_Log_Deleter
-delete ***IIS logs/files in a directory*** older than...
+delete ***IIS logs / files in a directory*** older than...
 
 
 Powershell script to delete files in a directory which are older than a certain period of time counted from the actual date in days.
